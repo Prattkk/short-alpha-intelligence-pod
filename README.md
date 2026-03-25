@@ -152,6 +152,24 @@
 > >    
 > >     - ---
 > >
+
+---
+
+## Visualizations
+
+### System architecture
+![Architecture](screenshots/architecture_diagram.png)
+
+### Multi-layered sentiment dashboard
+![Dashboard](screenshots/multi_layered_sentiment_heatmap.png)
+
+### Per-ticker short interest deep dive
+![Deep Dive](screenshots/short_interest_deep_dive.png)
+
+### Sample agent output
+![Agent Output](screenshots/agent_output_sample.png)
+
+
 > > ## 👤 My Role & What I Learned
 > >
 > > This was a solo academic project I designed and built end-to-end during my **MS in Business Analytics at the University of Illinois Urbana-Champaign (UIUC Gies)**.
